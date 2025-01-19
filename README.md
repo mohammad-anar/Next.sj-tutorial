@@ -1,7 +1,35 @@
-# Next.js
+## This is a next js hello world project.
 
-Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces, and Next.js for additional features and optimizations.
+# Here is the initial project structure explained.
 
-Under the hood, Next.js also abstracts and automatically configures tooling needed for React, like bundling, compiling, and more. This allows you to focus on building your application instead of spending time with configuration.
+### node_modules
 
-Whether you're an individual developer or part of a larger team, Next.js can help you build interactive, dynamic, and fast React applications.
+### .next
+
+### src
+
+##### app
+
+##### fonts
+
+##### favicon.ico
+
+##### global.css
+
+##### layout.tsx
+
+##### page.tsx
+
+### .eslintrc.json
+
+### next.convig.mjs
+
+### pacakge-lock.json
+
+### package.json
+
+### tailwind-config.ts
+
+### tsconfig.json
+
+### README.md
